@@ -1,0 +1,26 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4f3001; 
+    background-image: url(../assets/Solid\ Dusty\ Blue.jpg)
+      }
+img{
+    display:block;
+    padding: 5px;
+    margin: 8px;
+    margin-top: 8px;
+    margin: auto;
+    margin-bottom: 8px;
+
+
+}
+h3{
+    border: solid blanchedalmond 5px;
+    text-align: center;
+    font-size: 50px;
+
+}
+.list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #4f3001;
+}
